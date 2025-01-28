@@ -99,4 +99,3 @@ GROUP BY UserID;
 SELECT * FROM Posts ORDER BY CreatedAt DESC;
 
 
-
